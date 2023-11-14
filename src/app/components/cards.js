@@ -4,7 +4,8 @@ import '../cards.css'
 
 export default function Cards(){
     return(
-      <div class="container text-center col py-3">
+      <div className="CardContainer">
+        <div class="container text-center col py-3">
         <div class="row">
           <div class="col">
             <div class="card text-bg-danger">
@@ -40,6 +41,9 @@ export default function Cards(){
         </div>
       </div>
     </div>
+        
+      </div>
+      
     );
         
 }

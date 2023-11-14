@@ -27,6 +27,7 @@ class Target extends Component{
       title: {
         text: "Target vs Reality",
       },
+      dataPointWidth: 20,
       axisY: {
         title: "Units Sold",
         labelFormatter: this.addSymbols,

@@ -1,9 +1,11 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+
 export default function TopProducts(){
     return(
         <div> 
+            <div className="TopProductsContainer">
             <h2> Top Products</h2>
             <table class="table" title="Top Products">
                 <thead>
@@ -17,7 +19,7 @@ export default function TopProducts(){
                 <tbody>
                     <tr>
                         <th scope="row">1</th>
-                        <td>Mark</td>
+                        <td>Nicorette</td>
                         <td>
                             <div class="progress">
                                 <div class="progress-bar" role="progressbar" style ={{width: '45%'}}
@@ -58,6 +60,8 @@ export default function TopProducts(){
                     </tr>
                 </tbody>
             </table>
+            </div>
+            
         </div>
     )
 }

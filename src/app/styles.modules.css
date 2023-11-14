@@ -1,12 +1,10 @@
 .main {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  padding: 6rem;
-  min-height: 100vh;
+  
+  background-color: white;
 }
-
+.body{
+  background-color: whitesmoke;
+}
 .description {
   display: inherit;
   justify-content: inherit;
@@ -18,7 +16,83 @@
   font-family: var(--font-mono);
 }
 .nav{
-  position: flex;
+  padding: 15px 10px;
+  background: #fff;
+  border: none;
+  border-radius: 0;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+.sidebar-container {
+  position: absolute;
+  width: 345px;
+  height: 1311px;
+  left: 0;
+  top: 0;
+  background: #FFFFFF;
+}
+
+.sidebar-content {
+  position: absolute;
+  width: 266px;
+  height: 1133px;
+  left: 46px;
+  top: 155px;
+}
+
+.sidebar-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 16px 24px;
+  gap: 24px;
+  width: 252px;
+  height: 64px;
+  background: #5D5FEF;
+  box-shadow: 0px 20px 50px rgba(55, 69, 87, 0.1);
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
+
+.sidebar-icon {
+  width: 32px;
+  height: 32px;
+  background: #000000;
+}
+
+.sidebar-text {
+  width: 103px;
+  height: 27px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #FFFFFF;
+}
+
+.sidebar-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-link {
+  text-decoration: none;
+  color: #FFFFFF;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+}
+.topproducts{
+
+}
+.TopProductsContainer{
+  
+}
+.CardsContainer{
+  
 }
 
 .description a {
