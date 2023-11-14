@@ -1,0 +1,812 @@
+/* Todays Sales */
+
+position: absolute;
+width: 877px;
+height: 348px;
+left: 377px;
+top: 152px;
+
+
+
+/* Today Sales 
+
+box-sizing: border-box;
+
+position: absolute;
+width: 877px;
+height: 348px;
+left: 377px;
+top: 152px;
+
+background: #FFFFFF;
+border: 1px solid #F8F9FA;
+box-shadow: 0px 4px 20px rgba(238, 238, 238, 0.501967);
+border-radius: 20px;
+
+
+/* 4 */
+
+position: absolute;
+width: 180px;
+height: 184px;
+left: 665px;
+top: 132px;
+
+
+
+/* bg */
+
+position: absolute;
+width: 180px;
+height: 184px;
+left: 665px;
+top: 132px;
+
+/* Colors/Purple/100 */
+background: #F3E8FF;
+border-radius: 16px;
+
+
+/* 0,5% from yesterday */
+
+position: absolute;
+width: 124px;
+height: 16px;
+left: 685px;
+top: 280px;
+
+/* xs/Medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+
+/* Primary/800 */
+color: #4079ED;
+
+
+
+/* New Customers */
+
+position: absolute;
+width: 128px;
+height: 24px;
+left: 685px;
+top: 248px;
+
+/* base/Medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #425166;
+
+
+
+/* 8 */
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 685px;
+top: 208px;
+
+/* 2xl/Semibold */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+/* Greys/Blue Grey/900 */
+color: #151D48;
+
+
+
+/* Icon */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 685px;
+top: 152px;
+
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 685px;
+top: 152px;
+
+background: #BF83FF;
+
+
+/* New Costumers Icon */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 693px;
+top: 160px;
+
+
+
+/* Rectangle 837 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 693px;
+top: 160px;
+
+
+
+/* Group 914 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 695px;
+top: 162px;
+
+
+
+/* Rectangle 838 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 695px;
+top: 162px;
+
+
+
+/* Union */
+
+position: absolute;
+width: 18px;
+height: 16px;
+left: 696px;
+top: 164px;
+
+background: #FFFFFF;
+
+
+/* Union */
+
+position: absolute;
+width: 6px;
+height: 6px;
+left: 708px;
+top: 166px;
+
+background: #000000;
+
+
+/* Union */
+
+position: absolute;
+width: 14px;
+height: 16px;
+left: 696px;
+top: 164px;
+
+background: #000000;
+border-radius: 2px;
+
+
+/* 3 */
+
+position: absolute;
+width: 180px;
+height: 184px;
+left: 454px;
+top: 132px;
+
+
+
+/* bg */
+
+position: absolute;
+width: 180px;
+height: 184px;
+left: 454px;
+top: 132px;
+
+/* Colors/Green/100 */
+background: #DCFCE7;
+border-radius: 16px;
+
+
+/* +1,2% from yesterday */
+
+position: absolute;
+width: 128px;
+height: 16px;
+left: 474px;
+top: 280px;
+
+/* xs/Medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+
+/* Primary/800 */
+color: #4079ED;
+
+
+
+/* Products Sold */
+
+position: absolute;
+width: 111px;
+height: 24px;
+left: 474px;
+top: 248px;
+
+/* base/Medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #425166;
+
+
+
+/* 59 */
+
+position: absolute;
+width: 31px;
+height: 32px;
+left: 474px;
+top: 208px;
+
+/* 2xl/Semibold */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+/* Greys/Blue Grey/900 */
+color: #151D48;
+
+
+
+/* Icon */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 474px;
+top: 152px;
+
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 474px;
+top: 152px;
+
+/* Supporting Color/Green */
+background: #3CD856;
+
+
+/* Disc Icon */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 482px;
+top: 160px;
+
+
+
+/* Rectangle 857 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 482px;
+top: 160px;
+
+
+
+/* Group 925 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 484px;
+top: 162px;
+
+
+
+/* Rectangle 858 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 484px;
+top: 162px;
+
+
+
+/* Subtract */
+
+position: absolute;
+width: 8.01px;
+height: 17.67px;
+left: 497.49px;
+top: 163px;
+
+background: #FFFFFF;
+transform: rotate(45deg);
+
+
+/* 2 */
+
+position: absolute;
+width: 180px;
+height: 184px;
+left: 243px;
+top: 132px;
+
+
+
+/* bg */
+
+position: absolute;
+width: 180px;
+height: 184px;
+left: 243px;
+top: 132px;
+
+background: #FFF4DE;
+border-radius: 16px;
+
+
+/* +5% from yesterday */
+
+position: absolute;
+width: 122px;
+height: 16px;
+left: 263px;
+top: 280px;
+
+/* xs/Medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+
+/* Primary/800 */
+color: #4079ED;
+
+
+
+/* Total Orders */
+
+position: absolute;
+width: 99px;
+height: 24px;
+left: 263px;
+top: 248px;
+
+/* base/Medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #425166;
+
+
+
+/* 274 */
+
+position: absolute;
+width: 43px;
+height: 32px;
+left: 263px;
+top: 208px;
+
+/* 2xl/Semibold */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+/* Greys/Blue Grey/900 */
+color: #151D48;
+
+
+
+/* Icon */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 263px;
+top: 152px;
+
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 263px;
+top: 152px;
+
+background: #FF947A;
+
+
+/* Order Icon */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 271px;
+top: 160px;
+
+
+
+/* Rectangle 780 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 271px;
+top: 160px;
+
+
+
+/* Union */
+
+position: absolute;
+width: 16.51px;
+height: 20px;
+left: 275px;
+top: 162px;
+
+background: #FFFFFF;
+
+
+/* 1 */
+
+position: absolute;
+width: 180px;
+height: 184px;
+left: 32px;
+top: 132px;
+
+
+
+/* bg */
+
+position: absolute;
+width: 180px;
+height: 184px;
+left: 32px;
+top: 132px;
+
+background: #FFE2E5;
+border-radius: 16px;
+
+
+/* +8% from yesterday */
+
+position: absolute;
+width: 122px;
+height: 16px;
+left: 52px;
+top: 280px;
+
+/* xs/Medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+
+/* Primary/800 */
+color: #4079ED;
+
+
+
+/* Total Sales */
+
+position: absolute;
+width: 88px;
+height: 24px;
+left: 52px;
+top: 248px;
+
+/* base/Medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #425166;
+
+
+
+/* £70k */
+
+position: absolute;
+width: 59px;
+height: 32px;
+left: 52px;
+top: 208px;
+
+/* 2xl/Semibold */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+/* Greys/Blue Grey/900 */
+color: #151D48;
+
+
+
+/* Icon */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 52px;
+top: 152px;
+
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 52px;
+top: 152px;
+
+background: #FA5A7D;
+
+
+/* Sales Icon */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 60px;
+top: 160px;
+
+
+
+/* Rectangle 839 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 60px;
+top: 160px;
+
+
+
+/* Group 916 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 62px;
+top: 162px;
+
+
+
+/* Rectangle 840 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 62px;
+top: 162px;
+
+
+
+/* Subtract */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 63px;
+top: 163px;
+
+background: #FFFFFF;
+
+
+/* Exports */
+
+position: absolute;
+width: 100px;
+height: 40px;
+left: 745px;
+top: 32px;
+
+
+
+/* bg */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 100px;
+height: 40px;
+left: 745px;
+top: 32px;
+
+border: 1px solid #C3D3E2;
+border-radius: 8px;
+
+
+/* Group 1000002736 */
+
+position: absolute;
+width: 68px;
+height: 20px;
+left: 761px;
+top: 42px;
+
+
+
+/* Export */
+
+position: absolute;
+width: 44px;
+height: 20px;
+left: 785px;
+top: 42px;
+
+/* sm/Medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+color: #0F3659;
+
+
+
+/* Export Icon */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 761px;
+top: 44px;
+
+
+
+/* Rectangle 853 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 761px;
+top: 44px;
+
+
+
+/* Group 923 */
+
+position: absolute;
+width: 13.33px;
+height: 13.33px;
+left: 762.33px;
+top: 45.33px;
+
+
+
+/* Rectangle 854 */
+
+position: absolute;
+width: 13.33px;
+height: 13.33px;
+left: 762.33px;
+top: 45.33px;
+
+
+
+/* Union */
+
+position: absolute;
+width: 10.67px;
+height: 10.67px;
+left: 763.67px;
+top: 46.67px;
+
+background: #0F3659;
+
+
+/* Group 1000002737 */
+
+position: absolute;
+width: 140px;
+height: 66px;
+left: 31px;
+top: 23px;
+
+
+
+/* Today’s Sales */
+
+position: absolute;
+width: 140px;
+height: 32px;
+left: 31px;
+top: 23px;
+
+/* xl/Semibold */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height, or 160% */
+
+/* Primary/Dark Shade */
+color: #05004E;
+
+
+
+/* Sales Summery */
+
+position: absolute;
+width: 125px;
+height: 30px;
+left: 33px;
+top: 59px;
+
+/* base/Regular */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+/* Greys/Blue Grey/700 */
+color: #737791;
+

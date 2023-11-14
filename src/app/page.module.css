@@ -17,6 +17,9 @@
   z-index: 2;
   font-family: var(--font-mono);
 }
+.nav{
+  position: flex;
+}
 
 .description a {
   display: flex;
@@ -218,6 +221,57 @@
     filter: invert(1) drop-shadow(0 0 0.3rem #ffffff70);
   }
 }
+.downloadbtn {
+  background: black;
+  color: white;
+  text-decoration: none;
+  padding: 5px 10px;
+  margin: unset;
+  position: absolute;
+  right: 0;
+  top: -32px;
+
+}
+
+
+
+
+
+.navbar {
+    padding: 15px 10px;
+    background: #fff;
+    border: none;
+    border-radius: 0;
+    margin-bottom: 40px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-btn {
+    box-shadow: none;
+    outline: none ! important;
+    border: none;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    border-bottom: 1px dashed #ddd;
+    margin: 40px 0;
+}
+
+.sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    background: #97BC62FF;
+    color: #fff;
+    transition: all 0.3s;
+    margin-left:-250px;
+}
+.my-custom-cards{
+  margin-top:20px;
+}
+
+
 
 @keyframes rotate {
   from {

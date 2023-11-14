@@ -1,0 +1,59 @@
+/* Cards.css */
+
+/* Todays Sales */
+.todays-sales {
+  position: absolute;
+  width: 877px;
+  height: 348px;
+  left: 377px;
+  top: 152px;
+  
+}
+
+/* 1 */
+.card-1 {
+  position: absolute;
+  width: 180px;
+  height: 184px;
+  left: 32px;
+  top: 132px;
+  background: #FFE2E5;
+  border-radius: 16px;
+}
+.card-2 {
+  position: absolute;
+  width: 180px;
+  height: 184px;
+  left: 243px;
+  top: 132px;
+  background: #FFE2E5;
+  border-radius: 16px;
+}
+
+.card-3 {
+  position: absolute;
+  width: 180px;
+  height: 184px;
+  left: 454px;
+  top: 132px;
+  background: #FFE2E5;
+  border-radius: 16px;
+}
+
+
+.card-4 {
+  position: absolute;
+  width: 180px;
+  height: 184px;
+  left: 665px;
+  top: 132px;
+  background: #FFF4DE;
+  border-radius: 16px;
+}
+
+  
+  /* Exports */
+  .exports {
+    /* ... */
+  }
+  
